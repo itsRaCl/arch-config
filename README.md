@@ -50,4 +50,6 @@
 
 ## Packages Install Command
 Please don't use this command unless you understand what you're doing. This is just for my reinstall purposes
-    - yay -S zsh alacritty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice
+
+```yay -S zsh alacritty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice
+```
