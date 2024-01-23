@@ -36,6 +36,7 @@
 - Terminal Multiplexer: tmux (<a href="https://github.com/itsRaCl/tmux-config">config</a>)
   - package manager: <a href="https://github.com/tmux-plugins/tpm">tpm</a>
   - <a href="https://github.com/tmuxinator/tmuxinator">tmuxinator</a>
+- (ONLY for BITS Pilani) WiFi Setup: <a href="https://github.com/itsRaCl/wifi_script">config</a>
 
 ## Browser Extensions
 
