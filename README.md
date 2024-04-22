@@ -4,6 +4,7 @@
 - GRUB
 - X11
 - i3
+- picom
 - networkmanager
 - pulseaudio
   - pavucontrol
@@ -11,7 +12,7 @@
   - bluez
   - blueman
 - yay
-- chromium
+- firefox
 - nvim
 - libreoffice
 - udiskie
@@ -22,12 +23,13 @@
 - ranger
 - Main Theme: <a href="https://github.com/catppuccin">Catppuccin</a>
   - Icon Theme: Papirus Icon Theme (dark variant)
-  - QT Theming: qt5ct
+  - QT Theming: qt5ct, qt6ct
   - GTK Theming: through the config files (`~/.config/gtk-2.0`, `~/.config/gtk-3.0`,`~/.config/gtk-3.0`)
 
 ## Configs
 
 - WM: i3 (<a href="https://github.com/itsRaCl/i3-config">config</a>)
+- Compositor: picom (<a href="https://github.com/yshui/picom"> link </a>)
 - Shell: zsh (<a href="https://github.com/itsRaCl/zsh-config">config</a>)
   - package manager: antigen
 - Terminal: Alacritty (<a href="https://github.com/itsRaCl/alacritty-config">config</a>)
@@ -68,5 +70,5 @@
 Please don't use this command unless you understand what you're doing. This is just for my reinstall purposes
 
 ```
-yay -S zsh alacritty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez
+yay -S zsh alacritty neovim tmux firefox tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez picom gnome-keyring
 ```
