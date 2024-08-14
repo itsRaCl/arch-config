@@ -12,7 +12,7 @@
   - bluez
   - blueman
 - yay
-- firefox
+- chromium
 - nvim
 - libreoffice
 - udiskie
@@ -21,7 +21,8 @@
 - dunst
 - nautilus
 - ranger
-- Main Theme: <a href="https://github.com/catppuccin">Catppuccin</a>
+- gnome-keyring
+- Main Theme: <a href="https://github.com/dracula">Dracula</a>
   - Icon Theme: Papirus Icon Theme (dark variant)
   - QT Theming: qt5ct, qt6ct
   - GTK Theming: through the config files (`~/.config/gtk-2.0`, `~/.config/gtk-3.0`,`~/.config/gtk-3.0`)
@@ -38,7 +39,7 @@
 - Terminal Multiplexer: tmux (<a href="https://github.com/itsRaCl/tmux-config">config</a>)
   - package manager: <a href="https://github.com/tmux-plugins/tpm">tpm</a>
   - <a href="https://github.com/tmuxinator/tmuxinator">tmuxinator</a>
-- (ONLY for BITS Pilani) WiFi Setup: <a href="https://github.com/itsRaCl/wifi_script">config</a>
+- (DOESN'T WORK ONLY for BITS Pilani) WiFi Setup: <a href="https://github.com/itsRaCl/wifi_script">config</a>
 
 ## Browser Extensions
 
@@ -70,5 +71,5 @@
 Please don't use this command unless you understand what you're doing. This is just for my reinstall purposes
 
 ```
-yay -S zsh alacritty neovim tmux firefox tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez picom gnome-keyring
+yay -S zsh alacritty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez picom gnome-keyring
 ```
