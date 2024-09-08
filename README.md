@@ -4,6 +4,7 @@
 - GRUB
 - X11
 - i3
+- kitty
 - picom
 - networkmanager
 - pulseaudio
@@ -33,7 +34,7 @@
 - Compositor: picom (<a href="https://github.com/yshui/picom"> link </a>)
 - Shell: zsh (<a href="https://github.com/itsRaCl/zsh-config">config</a>)
   - package manager: antigen
-- Terminal: Alacritty (<a href="https://github.com/itsRaCl/alacritty-config">config</a>)
+- Terminal: Kitty (<a href="https://github.com/itsRaCl/kitty-config">config</a>)
 - Editor: nvim (<a href="https://github.com/itsRaCl/nvim-config">config</a>)
   - package manager: <a href="https://github.com/wbthomason/packer.nvim">packer.nvim</a>
 - Terminal Multiplexer: tmux (<a href="https://github.com/itsRaCl/tmux-config">config</a>)
@@ -71,5 +72,5 @@
 Please don't use this command unless you understand what you're doing. This is just for my reinstall purposes
 
 ```
-yay -S zsh alacritty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez picom gnome-keyring
+yay -S zsh kitty neovim tmux chromium tmuxinator papirus-icon-theme rofi ttf-iosevka-nerd ttf-iosevkaterm-nerd libreoffice-fresh flameshot nautilus zathura dunst blueman bluez picom gnome-keyring
 ```
